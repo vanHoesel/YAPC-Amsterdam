@@ -1,0 +1,7 @@
+/* style media all */
+html { overflow-y:scroll; }
+html, body, div, p, h1, h2, h3 { margin: 0px; border: 0px; padding: 0px; }
+body { background-color: #A7AEB4; font: 100% verdana,sans-serif; color: #000; }
+img { border: 0px; }
+
+#main { color: #FFF; background: #000 url(/img/yapc-fabric.jpg) no-repeat; min-height: 1440px; }
